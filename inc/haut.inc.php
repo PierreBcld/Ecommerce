@@ -11,7 +11,7 @@
                 <a href="" title="Mon Site">MonSite.com</a>
             </div>
             <nav>
-                <a href="<?php echo RACINE_SITE; ?>incscription.php">Inscription</a>
+                <a href="<?php echo RACINE_SITE; ?>inscription.php">Inscription</a>
                 <a href="<?php echo RACINE_SITE; ?>connexion.php">Connexion</a>
                 <a href="<?php echo RACINE_SITE; ?>boutique.php">Boutique</a>
                 <a href="<?php echo RACINE_SITE; ?>panier.php">Panier</a>
