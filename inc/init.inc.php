@@ -9,5 +9,3 @@ if ($mysqli->connect_error) die('Un problème est survenu lors de la tentative d
 
 session_start();
 define("RACINE_SITE", "http://" . $_SERVER['HTTP_HOST'] . "/");
-require('./inc/functions.inc.php');
-debug($mysqli, 0);
